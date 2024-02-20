@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jared-Steven
-- 👀 I’m interested in Data Science, Full Stack Development And Digital Marketing
+- 👀 I’m interested in Data Science And Full Stack Development.
 - 🌱 I’m currently learning new tech stacks such as R, Julia, Pearl, Ruby, etc...
 - 💞️ I’m looking to collaborate on projects related to my area of expertise
 - 📫 You can reach me by mailing to jared21steven@gmail.com
