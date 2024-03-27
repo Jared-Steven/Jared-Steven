@@ -32,7 +32,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jaredsteven"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jaredsteven" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jared-steven&show_icons=true&locale=en&layout=compact" alt="jared-steven" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jared-steven&show_icons=true&locale=en" alt="jared-steven" /></p>
 
