@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jared Steven</h1>
 <h3 align="center">An AI Engineer And A Full-Stack Data Scientist from India</h3>
-![My Linked In Banner](https://github.com/Jared-Steven/Jared-Steven/assets/135201335/1f568f6d-ae97-4bfd-8741-ea421bc14095)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jared-steven&label=Profile%20views&color=0e75b6&style=flat" alt="jared-steven" /> </p>
 
 - 📝 I regularly write articles on [https://jaredsteven.substack.com/](https://jaredsteven.substack.com/)
